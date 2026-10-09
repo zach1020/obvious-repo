@@ -1,0 +1,5 @@
+# Autobuild repository policy
+# Default branch and merge method auto-detected from GitHub repo settings.
+defaultBranch: main
+mergeMethod: squash
+requireHumanMerge: true
